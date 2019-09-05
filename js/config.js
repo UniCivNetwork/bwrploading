@@ -114,6 +114,7 @@ var l_musicDisplay = true;
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
 	{ogg: "eg.ogg", name: "Wir sind freunde fur immer im leben"},
+	{ogg: "wg.ogg", name: "grune teufel - german bundeswehr lied"},
 ];
 
 // Random music order?
