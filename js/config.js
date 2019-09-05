@@ -113,8 +113,9 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "eg.ogg", name: "Wir sind freunde fur immer im leben"},
-	{ogg: "wg.ogg", name: "grune teufel - german bundeswehr lied"},
+	{ogg: "eg.ogg", name: "Wir sind freunde fur immer im leben - An NVA hymn"},
+	{ogg: "wg.ogg", name: "grune teufel - a german bundeswehr lied"},
+	{ogg: "rr.ogg", name: "Florian Geyer lied - A song of rebellion"},
 ];
 
 // Random music order?
