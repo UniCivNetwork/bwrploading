@@ -152,7 +152,7 @@ var l_messagesFade = 1000;
 // Show errors inside Garry's Mod?
 // Can be useful for finding errors
 // 'true' or 'false'
-var l_showErrorsIngame = true;
+var l_showErrorsIngame = false;
 
 //==============================================================
 //========================== WARNING ===========================
